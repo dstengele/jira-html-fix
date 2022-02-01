@@ -1,0 +1,4 @@
+jira
+pypandoc
+browser-cookie3
+requests
