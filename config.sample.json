@@ -1,0 +1,11 @@
+{
+    "base_url": "http://localhost:8085/jira",
+    "username": "USERNAME",
+    "password": "PASSWORD",
+    "disabled_notification_scheme": 12345,
+    "customfields": [
+        "customfield_12345",
+        "customfield_67890"
+    ],
+    "projects": ["PROJECTKEY1", "PROJECTKEY2"]
+}
